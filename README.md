@@ -1,4 +1,9 @@
 Declassiflow
+
+**A Static Analysis for Modeling Non-Speculative Knowledge to Relax Speculative Execution Security Measures**
+
+Rutvik Choudhary, Alan Wang, Zirui Neil Zhao, Adam Morrison, Chris W. Fletcher
+
 =========
 Declassiflow is a pass written for LLVM that determines what variables are directly leaked or can be deduced in a non-speculative execution.
 
